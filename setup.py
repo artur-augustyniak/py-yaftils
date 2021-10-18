@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='py-yaftils',
+    name='yaftils',
     version='0.1.0',    
     license='BSD 2-clause',
     packages=['yaftils'],
